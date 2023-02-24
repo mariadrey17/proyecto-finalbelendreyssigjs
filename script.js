@@ -138,7 +138,7 @@ fetch(
 
 conseguirDatos(console.log(subjectlistJSON));
 
-let datosMesa = "Anotate en las mesas de Examenes";
+let datosMesa = "Anotate en las mesas de Exámenes";
 impresionMesaExamen = document.getElementById("datosMesa");
 impresionMesaExamen.innerHTML = datosMesa;
 console.log(impresionMesaExamen);
@@ -264,7 +264,7 @@ const ciclo = [
 "Historia del teatro3",
 "Analisis de Texto 1",
 "Teatro contemporaneo",
-"Histori de la danza contemporanea 3",
+"Historia de la danza contemporanea 3",
 "Expresión corporal 2",
 "Rítmica 2",
 "Lenguaje Musical",
