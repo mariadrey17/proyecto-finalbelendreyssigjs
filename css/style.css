@@ -32,6 +32,7 @@ body {
 .carousel-inner {
   width: 60%;
   margin-left: 382px;
+  animation-duration: 3s;
 }
 
 #datos {
