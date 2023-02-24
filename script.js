@@ -1,3 +1,21 @@
+//El proyecto es una boleta virtual de calificaciones de los estudiantes , ellos ingresan sus datos , ingresan luego sus notas y si la nota final es igual o mayor a 18 aprueban para dar el examen final , da alerta si aprobo o no, luego van a ver mesa de examen con las materias disponibles que pueden rendir  
+//en caso caso de aprobarsale la alerta con la materia tal el dia  .ey html las materias disponibles ,y también finalmente la lista de alumnos aprobados Va quedar almacenado en el storag
+//objetos los alumnos ,todo se centra en ellos
+// obtener sus notas pasaba por el examen final inscribiendose fijarse si están disponibles las materias y termina anotandose paraa el nuevo ciclo 2023 
+//
+//1 Alerta de bienvenida
+// titulo principal calificaciones del estudiante escuela integral de arte free art 
+//poner titulo secundario completa tus datos 
+//se agrego : inputs,, saque todas las alertas y los prompts ,se agrego Fetch , promesas se psaron a json algunos datos  las cosas las pase al dom se agrego la seccion nueva donde los estudiantes se inscriben al año 2023 que no estaba
+
+
+
+
+
+
+
+
+
 //Creando alerta de Bienvenida
 let holaBoton = document.getElementById("holaBoton");
 holaBoton.addEventListener("click", saludo);

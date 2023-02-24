@@ -1,3 +1,6 @@
+
+/*Inicio*/
+
 h1 {
 animation-duration: 4s;
   animation-name: aparecer;
@@ -28,7 +31,7 @@ body {
 #title {
   text-align: center;
 }
-
+/*main*/
 .carousel-inner {
   width: 60%;
   margin-left: 382px;
@@ -67,10 +70,17 @@ ul#aprobados {
 #materiasCiclo {
   list-style-type: none;
 }
+
+
+/*footer*/
 footer {
   background-image: url(../img/fondo.jpg);
   color: antiquewhite;
 }
+
+
+
+/*titulos y subtitulos*/
 .subtitulos1 {
   margin-left: 808px;
   display: block;
