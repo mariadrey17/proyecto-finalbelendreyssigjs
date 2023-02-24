@@ -1,0 +1,196 @@
+h1 {
+    animation-duration: 4s;
+    animation-name: aparecer;
+    animation-iteration-count: infinite;
+  }
+  
+@keyframes aparecer {
+    0% {
+      opacity: 0;
+  
+    }
+  
+  
+    100% {
+      opacity: 1;
+    }
+  }
+  
+body {
+    background-image: linear-gradient(to left, rgb(240, 241, 173), rgba(230, 171, 180, 0.788));
+}
+
+.logo-escuela {
+    margin-top: 20px;
+}
+#title {
+    text-align: center;
+}
+
+
+.carousel-inner {
+    width: 60%;
+    margin-left:382px ;
+
+  }
+
+#datos {
+    text-align: center;
+  
+}
+
+#calcularCalificaciones {
+    border: solid 2px #f0516c;
+}
+
+ #materiasFinal  {
+    
+    text-align: left;
+    text-decoration: none;
+    border: solid 2px #f0516c;
+}
+
+
+
+#datosMesa {
+    font-size: 1.3rem;
+    
+}
+
+#listaAprobados {
+    font-size: 1.3rem;
+    
+}
+
+ul#aprobados {
+    list-style-type: none;
+    
+}
+
+.fotodos {
+    height:425px;
+}
+#materiasCiclo {
+
+    list-style-type: none;
+}
+footer {
+    background-image: url(../img/fondo.jpg);
+    color: antiquewhite;
+}
+.subtitulos1 {
+ margin-left: 808px;
+    display: block;
+    font-family:monospace;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width:24ch;
+    animation:typing 8s steps(24), blink .5s infinite step-end alternate;
+    overflow: hidden;
+   }
+    
+    @keyframes typing {
+      from {width: 0}
+  
+    }
+    @keyframes blink{
+      50% {border-color: transparent}
+  
+}
+.subtitulos2{
+    margin-left: 808px;
+    display: block;
+    font-family:monospace;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width:26ch;
+    animation:typing 12s steps(26), blink .5s infinite step-end alternate;
+    overflow: hidden;
+   }
+    
+    @keyframes typing {
+      from {width: 0}
+  
+    }
+    @keyframes blink{
+      50% {border-color: transparent}
+  
+}
+.subtitulos3{
+    margin-left: 800px;
+    display: block;
+    font-family:monospace;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width:16ch;
+    animation:typing 14s steps(16), blink .5s infinite step-end alternate;
+    overflow: hidden;
+   }
+    
+    @keyframes typing {
+      from {width: 0}
+  
+    }
+    @keyframes blink{
+      50% {border-color: transparent}
+  
+}
+.subtitulos4 {
+    margin-left: 765px;
+    display: block;
+    font-family:monospace;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width:33ch;
+    animation:typing 16s steps(33), blink .5s infinite step-end alternate;
+    overflow: hidden;
+   }
+    
+    @keyframes typing {
+      from {width: 0}
+  
+    }
+    @keyframes blink{
+      50% {border-color: transparent}
+  
+}
+.subtitulos5{
+    margin-left: 838px;
+    display: block;
+    font-family:monospace;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width:19ch;
+    animation:typing 20s steps(19), blink .5s infinite step-end alternate;
+    overflow: hidden;
+   }
+    
+    @keyframes typing {
+      from {width: 0}
+  
+    }
+    @keyframes blink{
+      50% {border-color: transparent}
+  
+}
+
+.subtitulos6 {
+    margin-left: 770px;
+    display: block;
+    font-family:monospace;
+    white-space: nowrap;
+    border-right: 4px solid;
+    width:25ch;
+    animation:typing 22s steps(25), blink .5s infinite step-end alternate;
+    overflow: hidden;
+    
+   }
+    
+    @keyframes typing {
+      from {width: 0}
+  
+    }
+    @keyframes blink{
+      50% {border-color: transparent}
+  
+}
